@@ -1,4 +1,6 @@
 baseURL = "http://takanorimasuda1.github.io/"
 languageCode = "en-us"
+contentDir = "posts"
+publishDir = "docs"
 title = "My"
 theme = "harbor"
