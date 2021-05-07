@@ -1,1 +1,0 @@
-# takanorimasuda1.github.io
